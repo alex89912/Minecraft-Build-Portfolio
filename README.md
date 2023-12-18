@@ -9,6 +9,8 @@ I built and trained on singleplayer and private servers. My name is Alex, and I'
 
 Altough I get a lot of help from my brother, I mostly play on my creative singleplayer worlds where I unleash my creativity and my passion for landscapes and medieval styles
 
+Sadly, I cannot provide with the latest screenshots but the in build progress is still present
+
 Screenshots:
 See folder: /screens/The-Hill/
 

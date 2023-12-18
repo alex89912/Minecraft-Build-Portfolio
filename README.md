@@ -3,16 +3,21 @@
 ## Intro
 I built and trained on singleplayer and private servers. My name is Alex, and I'm a 13 years old with a passion for Minecraft. Despite my young age, I've already gained valuable experience in the world of Minecraft building. I love expressing my creativity through intricate designs and constructing unique landscapes within the game
 
+
+
 ## The builds
+
 
 ### The Hill:
 
 Altough I get a lot of help from my brother, I mostly play on my creative singleplayer worlds where I unleash my creativity and my passion for landscapes and medieval styles
 
-Sadly, I cannot provide with the latest screenshots but the in build progress is still present
+Sadly, I cannot provide with the latest screenshots but the in build progress is still present.
+The map got corrupted because of a PC upgrade that erased all of my data
 
 Screenshots:
 See folder: /screens/The-Hill/
+
 
 
 ### Medieval Village
